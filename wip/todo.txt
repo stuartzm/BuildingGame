@@ -1,0 +1,33 @@
+bBuilding
+Build Menu
+
+Crafting
+Crafting Jobs
+Crafting Menu
+
+Resource Screen
+Resource Management
+Gathering Resources
+
+Mining
+
+GUI
+* Building Menu
+* Resources Menu
+
+Enemies
+Weapons
+Defenses
+Military Jobs
+Military Designations
+
+Structures
+*Doors
+
+Farming
+Farmer
+
+Problems:
+
++ The node graph collision check uses boundingBox.set(x) or something which doesn't respect the bounding box padding -- Think I fixed this
+
